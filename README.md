@@ -17,10 +17,10 @@ Lists average earnings (Gross USA) of each Genre in descending order.
 
 How to run the code:
 
-1)"python -m pip install -r Requirements.txt" all the required packages in Requirement.txt file.  
-2)Change directory using "cd ...\web scraping\imdb".  
-3)For data collection from IMDB and storing in a .csv file write "python main.py".  
-4)For drawing graphs write "python graphs.py".  
-5)To list average earnings write "python list.py".  
+1) "python -m pip install -r Requirements.txt" all the required packages in Requirement.txt file.  
+2) Change directory using "cd ...\web scraping\imdb".  
+3) For data collection from IMDB and storing in a .csv file write "python main.py".  
+4) For drawing graphs write "python graphs.py".  
+5) To list average earnings write "python list.py".  
 
 Python version used = Python 3.7.7
