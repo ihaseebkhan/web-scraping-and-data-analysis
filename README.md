@@ -24,3 +24,6 @@ How to run the code:
 5) To list average earnings write "python list.py".  
 
 Python version used = Python 3.7.7
+
+Data Collection:
+![alt text](https://github.com/ihaseebkhan/web-scraping-and-data-analysis/blob/master/data%20collection.png)
