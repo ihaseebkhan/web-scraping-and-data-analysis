@@ -3,7 +3,7 @@ URL used for web scraping: https://www.imdb.com/chart/top?ref_=nv_mv_250
 
 The programme crawls all the top rated movies from IMDB and collects the following information for each movie.
 
-Total Number of Ratings\n
+Total Number of Ratings  
 Rating Score
 Genre
 Budget
