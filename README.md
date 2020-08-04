@@ -25,14 +25,14 @@ How to run the code:
 
 Python version used = Python 3.7.7
 
-Data Collection:
+# Data Collection:
 ![alt text](https://github.com/ihaseebkhan/web-scraping-and-data-analysis/blob/master/data%20collection.png)
 
-Relation between Total number of ratings & Rating score:
+# Relation between Total number of ratings & Rating score:
 ![alt text](https://github.com/ihaseebkhan/web-scraping-and-data-analysis/blob/master/rating%20and%20score.png)
 
-Relation between Budget & Rating Score:
+# Relation between Budget & Rating Score:
 ![alt text](https://github.com/ihaseebkhan/web-scraping-and-data-analysis/blob/master/budget%20and%20rating.png)
 
-List of average earnings (Gross USA) of each Genre in descending order:
+# List of average earnings (Gross USA) of each Genre in descending order:
 ![alt text](https://github.com/ihaseebkhan/web-scraping-and-data-analysis/blob/master/list.png)
